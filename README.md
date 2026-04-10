@@ -1,3 +1,5 @@
+This is the specific version of the pedropathing-quickstart for team 22335's robot MAX DECODER for the 25-26 (DECODE) FTC season. 
+
 ## NOTICE
 
 This repository contains the public FTC SDK for the DECODE (2025-2026) competition season.
